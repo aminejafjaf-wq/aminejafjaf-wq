@@ -13,6 +13,8 @@ Mon site personnel rassemble des articles et des projets, avec des sources techn
 
 ## Quelques lectures
 
+Un exemple de code : [TLS Endpoint Check](https://github.com/aminejafjaf-wq/tls-endpoint-check), un laboratoire Python avec des tests TLS locaux pour contrôler identité, confiance et expiration d’un certificat.
+
 - [Automatisation des certificats TLS](https://aminejafjaf.com/articles/automatisation-certificats-tls)
 - [PKI et chaîne de confiance](https://aminejafjaf.com/articles/pki-chaine-de-confiance)
 - [Infrastructure as Code : avantages et limites](https://aminejafjaf.com/articles/infrastructure-as-code)
